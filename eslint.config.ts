@@ -27,6 +27,7 @@ const autoImportGlobals = {
   lazy: 'readonly',
   memo: 'readonly',
   forwardRef: 'readonly',
+  
   createContext: 'readonly',
   createElement: 'readonly',
   cloneElement: 'readonly',
