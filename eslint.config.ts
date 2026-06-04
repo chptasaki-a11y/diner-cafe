@@ -7,7 +7,6 @@ import routeElementPlugin from './eslint-rules/route-element-jsx.js'
 
 const autoImportGlobals = {
   // React
-  
   React: 'readonly',
   useState: 'readonly',
   useEffect: 'readonly',
