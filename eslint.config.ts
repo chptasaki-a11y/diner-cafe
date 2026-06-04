@@ -5,7 +5,6 @@ import reactRefresh from 'eslint-plugin-react-refresh'
 import tseslint from 'typescript-eslint'
 import routeElementPlugin from './eslint-rules/route-element-jsx.js'
 
-
 const autoImportGlobals = {
   // React
   React: 'readonly',
